@@ -10,7 +10,7 @@
 
 - 🌱 I’m currently learning **Next.js**
 
-- 📝 I regularly write articles on [https://hashnode.com/@Light13008](https://hashnode.com/@Light13008)
+- 📝 I regularly write articles on <a href="https://hashnode.com/@Light13008"> My hashcode blogs</a>
 
 - 📫 How to reach me **sarupatil0001@gmail.com** <a href="https://www.instagram.com/light_infinite_101/">Instagram </a>
 

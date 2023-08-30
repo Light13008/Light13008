@@ -12,7 +12,7 @@
 
 - 📝 I regularly write articles on [https://hashnode.com/@Light13008](https://hashnode.com/@Light13008)
 
-- 📫 How to reach me **sarupatil0001@gmail.com** **https://www.instagram.com/light_infinite_101/**
+- 📫 How to reach me **sarupatil0001@gmail.com** <a href="https://www.instagram.com/light_infinite_101/">Instagram </a>
 
 - ⚡ Fun fact **Earth without art is just 'Eh'**
 

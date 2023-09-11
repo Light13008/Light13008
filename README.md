@@ -14,7 +14,7 @@
 
 - 📫 How to reach me **sarupatil0001@gmail.com** <a href="https://www.instagram.com/light_infinite_101/">Instagram </a>
 
-- ⚡ Fun fact **Earth without art is just 'Eh'**
+- ⚡ Fun fact **Earth without 'art' is just 'Eh'**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">

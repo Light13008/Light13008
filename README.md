@@ -23,7 +23,7 @@
 <h3 align="left">Languages and Tools:</h3>
 <p align="center">
   <a href="">
-    <img src="https://skillicons.dev/icons?i=cpp,py,,matlab,arduino,git,linux,ae&perline=5" />
+    <img src="https://skillicons.dev/icons?i=c,cpp,py,figma,matlab,html,css,js,arduino,git,firebase,linux,github,unity,vscode,visualstudio,&perline=5" />
   </a>
 </p>
 

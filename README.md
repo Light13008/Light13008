@@ -3,6 +3,9 @@
 <h3 align="center">Hello, I'm Sarvesh.Patil, an enthusiastic techie 💻, a dedicated programmer 🚀, and an open-source developer 🌐. 😊👋</h3>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=Light13008&label=Profile%20views&color=0e75b6&style=flat" alt="Light13008" /> </p>
 
+[![An image of @light13008's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/light13008)](https://holopin.io/@light13008)
+
+
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=Light13008&theme=tokyonight" alt="Light13008" /></a> </p>
 
 - 🌱 I’m currently learning **MERN **
@@ -10,8 +13,6 @@
 - 📫 How to reach me **sarupatil0001@gmail.com**
 - 📝 I regularly write articles on **https://hashnode.com/@Light13008**
 - ⚡ Fun fact **I believe Earth is round**
-
-[![An image of @light13008's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/light13008)](https://holopin.io/@light13008)
 
 
 <div> <a href="https://twitter.com/unraveller_01" target="_blank"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" target="_blank"></a>

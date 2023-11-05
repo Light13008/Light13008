@@ -1,8 +1,5 @@
-<img src="https://raw.githubusercontent.com/BEPb/BEPb/5c63fa170d1cbbb0b1974f05a3dbe6aca3f5b7f3/assets/Bottom_up.svg" width="100%" />
-
 <h1 align="center">Hi 👋, I'm Sarvesh.Patil</h1>
 <h3 align="center">Hello, I'm Sarvesh.Patil, an enthusiastic techie 💻, a dedicated programmer 🚀, and an open-source developer 🌐. 😊👋</h3>
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=Light13008&label=Profile%20views&color=0e75b6&style=flat" alt="Light13008" /> </p>
 
 [![An image of @light13008's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/light13008)](https://holopin.io/@light13008)
 
@@ -31,6 +28,7 @@
     <img src="https://skillicons.dev/icons?i=c,cpp,py,figma,matlab,html,css,js,arduino,git,firebase,linux,github,unity,vscode,visualstudio,&perline=5" />
   </a>
 </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=Light13008&label=Profile%20views&color=0e75b6&style=flat" alt="Light13008" /> </p>
 
 <h3 align="left">Stars</h3>
 <img align="left" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Light13008&hide_progress=true&theme=tokyonight" alt=Light13008 />
